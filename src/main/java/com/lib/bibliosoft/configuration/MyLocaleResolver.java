@@ -15,7 +15,6 @@ import java.util.Locale;
  */
 public class MyLocaleResolver implements LocaleResolver{
 
-
     /**
      *@Title: MyLocaleResolver.java
      *@Author: 毛文杰
